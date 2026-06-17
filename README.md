@@ -11,6 +11,7 @@ This project focuses on the modeling, analysis, and control system design of an 
 ## 🚗 Suspension System Comparison
 
 To better understand the necessity of active control, we compare the mechanical behavior of passive, semi-active, and active suspension systems:
+
 <img width="389" height="197" alt="Screenshot 1405-03-27 at 5 30 46 PM" src="https://github.com/user-attachments/assets/e621b934-59d7-4ec1-86da-b8d19ec2b6bc" />
 
 * **Passive Suspension:** Relies solely on springs and dampers to absorb energy. It is fixed and cannot adapt to varying road conditions.
