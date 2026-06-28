@@ -12,7 +12,7 @@ This project focuses on the modeling, analysis, and control system design of an 
 
 To better understand the necessity of active control, we compare the mechanical behavior of passive, semi-active, and active suspension systems:
 
-<img width="389" height="197" alt="Screenshot 1405-03-27 at 5 30 46 PM" src="https://github.com/user-attachments/assets/e621b934-59d7-4ec1-86da-b8d19ec2b6bc" />
+<img width="389" height="197" alt="Screenshot 1405-03-27 at 5 30 46 PM" src="https://github.com/user-attachments/assets/e621b934-59d7-4ec1-86da-b8d19ec2b6bc" />
 
 * **Passive Suspension:** Relies solely on springs and dampers to absorb energy. It is fixed and cannot adapt to varying road conditions.
 * **Active Suspension:** Uses an external energy source (actuator) to adjust the suspension force in real-time, significantly improving the trade-off between ride comfort and road holding.
@@ -32,6 +32,10 @@ To better understand the necessity of active control, we compare the mechanical 
 - **System Model:** Quarter-car passive-active suspension dynamics.
 - **Control Strategy:** PI control, Feedforward compensation, and Disturbance Estimation.
 - **Analysis Tools:** MATLAB & Simulink.
+
+## 👥 Team Members
+* **Amirali Fazeli** ([@amiralitw9](https://github.com/amiralitw9))
+* **Vahid Hamzeh** ([@VahidHamzeh](https://github.com/VahidHamzeh))
 
 ---
 *Developed for Linear Control Systems Course | Sharif University of Technology*
