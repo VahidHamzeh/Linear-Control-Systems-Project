@@ -5,6 +5,11 @@
 
 # Active Suspension System Design - Quarter-car Model
 
+## 👥 Team Members
+* **Amirali Fazeli** ([@amiralitw9](https://github.com/amiralitw9))
+* **Vahid Hamzeh** ([@VahidHamzeh](https://github.com/VahidHamzeh))
+
+
 ## Project Overview
 This project focuses on the modeling, analysis, and control system design of an active vehicle suspension system using a **Quarter-car Model**. The goal is to optimize the trade-off between **Ride Comfort** (minimizing cabin vibrations) and **Road Holding** (maintaining tire-road contact) by implementing an active control strategy.
 
@@ -32,10 +37,5 @@ To better understand the necessity of active control, we compare the mechanical 
 - **System Model:** Quarter-car passive-active suspension dynamics.
 - **Control Strategy:** PI control, Feedforward compensation, and Disturbance Estimation.
 - **Analysis Tools:** MATLAB & Simulink.
-
-## 👥 Team Members
-* **Amirali Fazeli** ([@amiralitw9](https://github.com/amiralitw9))
-* **Vahid Hamzeh** ([@VahidHamzeh](https://github.com/VahidHamzeh))
-
 ---
 *Developed for Linear Control Systems Course | Sharif University of Technology*
